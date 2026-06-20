@@ -1,0 +1,41 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "products"
+    label: "Products"
+    folder: ""
+    create: true
+    slug: "products"
+    format: "json"
+    files:
+      - label: "Product List"
+        name: "products"
+        file: "products.json"
+        fields:
+          - label: "Products"
+            name: ""
+            widget: "list"
+            fields:
+              - {label: "ID", name: "id", widget: "number"}
+              - {label: "Product Name", name: "name", widget: "string"}
+              - {label: "Code", name: "code", widget: "string"}
+              - {label: "Price (Rs.)", name: "price", widget: "number"}
+              - label: "Category"
+                name: "cat"
+                widget: "select"
+                options: ["Dress","Tops","T-Shirt","Pants","Skirt","Handbag","Jewellery","Kids"]
+              - {label: "Emoji Icon", name: "emoji", widget: "string", default: "👗"}
+              - label: "Badge"
+                name: "badge"
+                widget: "select"
+                options: ["", "New", "Hot", "Sale"]
+              - label: "Sizes"
+                name: "sizes"
+                widget: "list"
+                default: ["S","M","L","XL"]
+              - {label: "Description", name: "desc", widget: "text"}
