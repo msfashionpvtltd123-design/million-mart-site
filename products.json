@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Office Lady","code":"L1272","price":890,"cat":"Dress","emoji":"👗","badge":"New","sizes":["S","M","L","XL"],"desc":"Elegant office dress with tie waist detail. Cotton blend fabric, comfortable all-day wear."},
+  {"id":2,"name":"Hi Bye Dress","code":"L1270","price":1390,"cat":"Dress","emoji":"👘","badge":"","sizes":["S","M","L"],"desc":"Chic day-to-night dress. Flowy fabric with modern silhouette."},
+  {"id":3,"name":"Everose Dress","code":"L1269","price":1200,"cat":"Dress","emoji":"🥻","badge":"","sizes":["S","M","L","XL"],"desc":"Romantic rose-inspired dress for special occasions."},
+  {"id":4,"name":"Corner Office Dress","code":"L1268","price":1290,"cat":"Dress","emoji":"👗","badge":"Hot","sizes":["M","L","XL"],"desc":"Power dressing redefined. A-line cut with structured shoulders."},
+  {"id":5,"name":"Sparklyn Dress","code":"L1267","price":1230,"cat":"Dress","emoji":"✨","badge":"","sizes":["S","M","L"],"desc":"Subtle shimmer fabric that catches light beautifully."},
+  {"id":6,"name":"Peplum Blouse","code":"L1266","price":950,"cat":"Tops","emoji":"👚","badge":"","sizes":["S","M","L","XL"],"desc":"Flattering peplum cut in mustard yellow. Pairs with jeans or skirts."},
+  {"id":7,"name":"Panchoraban Dress","code":"L1265","price":1150,"cat":"Dress","emoji":"🌸","badge":"","sizes":["S","M","L"],"desc":"Frilly neckline with a vintage flare. Perfect for casual outings."},
+  {"id":8,"name":"Talking Shape","code":"L1264","price":1100,"cat":"Tops","emoji":"👕","badge":"","sizes":["S","M","L","XL","XXL"],"desc":"Babydoll style top in soft jersey fabric. Ultra comfortable fit."},
+  {"id":9,"name":"Sweety Rocks Crop","code":"L1263","price":880,"cat":"Tops","emoji":"🤍","badge":"","sizes":["S","M","L"],"desc":"Crisp white crop tee with a knotted hem. Summer essential."},
+  {"id":10,"name":"Meet Me","code":"L1262","price":1050,"cat":"Tops","emoji":"🎨","badge":"","sizes":["M","L","XL"],"desc":"Color block design top. Bold and contemporary style."},
+  {"id":11,"name":"Sky High Skirt","code":"L1260","price":780,"cat":"Skirt","emoji":"🩱","badge":"New","sizes":["S","M","L"],"desc":"Flowy midi skirt in pastel tones. Light and breezy fabric."},
+  {"id":12,"name":"Cargo Boss","code":"L1259","price":1450,"cat":"Pants","emoji":"👖","badge":"","sizes":["S","M","L","XL"],"desc":"Utility cargo pants with multiple pockets. Casual chic style."},
+  {"id":13,"name":"Linen Story","code":"L1258","price":1300,"cat":"Pants","emoji":"🧥","badge":"","sizes":["M","L","XL"],"desc":"Wide leg linen pants. Breathable and stylish for warm weather."},
+  {"id":14,"name":"City Tee","code":"L1257","price":650,"cat":"T-Shirt","emoji":"👕","badge":"","sizes":["S","M","L","XL","XXL"],"desc":"Classic crew-neck tee. Available in multiple colors."},
+  {"id":15,"name":"Stripe Vibes","code":"L1256","price":720,"cat":"T-Shirt","emoji":"🎽","badge":"","sizes":["S","M","L","XL"],"desc":"Nautical stripe pattern tee. Timeless casual wear."},
+  {"id":16,"name":"Mini Tote","code":"B1055","price":1800,"cat":"Handbag","emoji":"👜","badge":"Hot","sizes":["One Size"],"desc":"Compact tote bag with zip closure. Faux leather finish."},
+  {"id":17,"name":"Crossbody Gem","code":"B1054","price":2200,"cat":"Handbag","emoji":"👝","badge":"","sizes":["One Size"],"desc":"Elegant crossbody with chain strap. Perfect for evenings."},
+  {"id":18,"name":"Pearl Set","code":"J2010","price":990,"cat":"Jewellery","emoji":"💎","badge":"New","sizes":["One Size"],"desc":"Delicate pearl necklace and earring set. Classic and timeless."},
+  {"id":19,"name":"Gold Hoops","code":"J2009","price":750,"cat":"Jewellery","emoji":"🌀","badge":"","sizes":["One Size"],"desc":"Chunky gold-tone hoop earrings. Bold statement piece."},
+  {"id":20,"name":"Little Star Set","code":"K1001","price":550,"cat":"Kids","emoji":"🌟","badge":"New","sizes":["2-3Y","4-5Y","6-7Y"],"desc":"Cute star-print set for little ones. Soft cotton fabric."}
+]
